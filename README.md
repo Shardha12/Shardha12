@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shraddha Dhakad
 - 👀 I’m interested in Data Analytics , Power BI ,Advance Excel and in Python .
-- 🌱 I’m currently learning MSBI.
 - 📫 How to reach me - You can reach me on linkedin https://www.linkedin.com/in/shraddha-dhakad
 
 <!---
